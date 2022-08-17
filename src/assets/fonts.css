@@ -1,0 +1,100 @@
+@font-face {
+    font-family: zcoolkuaile;
+    src: url('./fonts-mine/ZCOOLKuaiLe-Regular.ttf');
+}
+
+@font-face {
+    font-family: Rajdhani;
+    src: url('./fonts-mine/Rajdhani-Regular.ttf');
+}
+
+@font-face {
+    font-family: InriaSerif;
+    src: url('./fonts-mine/InriaSerif-Regular.ttf');
+}
+
+@font-face {
+    font-family: InriaSerif-Light;
+    src: url('./fonts-mine/InriaSerif-Light.ttf');
+}
+
+@font-face {
+    font-family: TitilliumWeb-Bold;
+    src: url('./fonts-mine/TitilliumWeb-Bold.ttf');
+}
+
+@font-face {
+    font-family: Alegreya-VariableFont_wght;
+    src: url('./fonts-mine/Alegreya-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: LibreFranklin-VariableFont_wght;
+    src: url('./fonts-mine/LibreFranklin-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: SpaceMono-Regular;
+    src: url('./fonts-mine/SpaceMono-Regular.ttf');
+}
+
+@font-face {
+    font-family: Cardo-Regular;
+    src: url('./fonts-mine/Cardo-Regular.ttf');
+}
+
+@font-face {
+    font-family: KottaOne-Regular;
+    src: url('./fonts-mine/KottaOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: KleeOne-Regular;
+    src: url('./fonts-mine/KleeOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: Faustina-VariableFont_wght;
+    src: url('./fonts-mine/Faustina-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Alice-Regular;
+    src: url('./fonts-mine/Alice-Regular.ttf');
+}
+
+@font-face {
+    font-family: Gelasio-Bold;
+    src: url('./fonts-mine/Gelasio-Bold.ttf');
+}
+
+@font-face {
+    font-family: GowunBatang-Regular;
+    src: url('./fonts-mine/GowunBatang-Regular.ttf');
+}
+
+@font-face {
+    font-family: single-intro;
+    src: url('./fonts-mine/NanumBrushScript-Regular.ttf');
+}
+
+@font-face {
+    font-family: name-sign;
+    src: url('./fonts-mine/MonsieurLaDoulaise-Regular.ttf');
+}
+
+@font-face {
+    font-family: chinese-longcang;
+    src: url('./fonts-mine/LongCang-Regular.ttf');
+}
+
+@font-face {
+    font-family: chinese-normal;
+    src: url('./fonts-mine/NotoSerifSC-Regular.otf');
+}
+
+@font-face {
+    font-family: english-normal;
+    src: url('./fonts-mine/CrimsonPro-VariableFont_wght.ttf');
+}
+
