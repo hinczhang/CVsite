@@ -15,9 +15,9 @@
         </p>
         <div>
             <el-row>
-                <el-button class="download-button"><p class="download-text"><a href="/static/doc/CV.pdf" target="_blank" style="color:black">Download Resume (English, Academy)</a></p></el-button>
+                <el-button class="download-button"><p class="download-text"><a href="https://github.com/hinczhang/hinczhang/blob/main/RESEME_NEW.pdf" target="_blank" style="color:black">Download Resume (English, Academy)</a></p></el-button>
             
-                <el-button class="download-button"><p class="download-text"><a href="/static/doc/CV_CN.pdf" target="_blank" style="color:black">下载简历 (中文，职场)</a></p></el-button>
+                <el-button class="download-button"><p class="download-text"><a href="https://github.com/hinczhang/hinczhang/blob/main/%E7%B0%A1%E6%AD%B7-%E6%96%B0.pdf" target="_blank" style="color:black">下载简历 (中文，职场)</a></p></el-button>
             
                 <el-button class="download-button"><p class="download-text"><a href="#contact">Contact me</a></p></el-button>
             </el-row>

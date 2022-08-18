@@ -50,7 +50,6 @@ export default {
             document.getElementById("contact").style.width = document.documentElement.clientWidth+'px'
             document.getElementById("left").style.width = (Number(document.documentElement.clientWidth)/2).toString()+'px'
             document.getElementById("right").style.width = (Number(document.documentElement.clientWidth)/2).toString()+'px'
-
             
         }
     }
